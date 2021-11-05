@@ -34,9 +34,15 @@
 
 ### 📝 Latest Blog Posts
 
-- Check out my latest posts on [Dev.to](https://dev.to/davidmimay).
+- Check out my latest posts on [Dev.to](https://dev.to/davidmimay) or [Medium.com](https://medium.com/@davidmimay).
 
 ---
+
+### 🎓 Courses on Udemy
+
+- Enroll to my latest course on [Udemy.com](https://www.udemy.com/course/share-your-passion-with-woocommerce/?referralCode=13509514130A01EFEE47)
+[<img src="https://github.com/davidmimay/davidmimay/blob/main/src/assets/woocommerce-course.png">]
+
 
 ### 🔥 Stats
 
