@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 Languages and Tools
+### 👨‍💻 Tools
 
 [<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/google-cloud.png">](https://cloud.google.com/)
 [<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/firebase.png">](https://firebase.google.com/)
@@ -32,17 +32,18 @@
 
 ---
 
-### 📝 Latest Blog Posts
+### 📝 Posts
 
 - Check out my latest posts on [Dev.to](https://dev.to/davidmimay) or [Medium.com](https://medium.com/@davidmimay).
 
 ---
 
-### 🎓 Courses on Udemy
+### 🎓 Courses
 
-- Enroll to my latest course on [Udemy.com](https://www.udemy.com/course/share-your-passion-with-woocommerce/?referralCode=13509514130A01EFEE47)
-[<img src="https://github.com/davidmimay/davidmimay/blob/main/src/assets/woocommerce-course.png">]
+- Enroll to my latest course on [Udemy.com](https://www.udemy.com/course/share-your-passion-with-woocommerce/?referralCode=13509514130A01EFEE47).
+<img width="500px" src="https://github.com/davidmimay/davidmimay/blob/main/src/assets/woocommerce-course.png">
 
+---
 
 ### 🔥 Stats
 
