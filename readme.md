@@ -34,7 +34,7 @@
 
 ### 📝 Posts
 
-- Check out my latest posts on [Dev.to](https://dev.to/davidmimay) or [Medium.com](https://medium.com/@davidmimay).
+- Check out my latest posts on [DEV.to](https://dev.to/davidmimay).
 
 ---
 
