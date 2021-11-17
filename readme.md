@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on Angular, Firebase, Material.
 - 🌱 I’m currently learning Angular, Solidity.
+- 🏁 My current goal is to become a GDE.
 - 💬 Ask me about Angular, Firebase, Material.
 - 📫 How to reach me https://github.com/davidmimay
 
