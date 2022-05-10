@@ -41,7 +41,7 @@
 
 ### 🎓 Courses
 
-- Enroll to my latest course on [Udemy.com](https://www.udemy.com/course/share-your-passion-with-woocommerce/?referralCode=13509514130A01EFEE47).
+- Enroll to my latest course on [Udemy.com](https://www.udemy.com/course/2992388/?referralCode=13509514130A01EFEE47).
 <img width="500px" src="https://github.com/davidmimay/davidmimay/blob/main/src/assets/woocommerce-course.png">
 
 ---
